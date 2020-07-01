@@ -1,0 +1,16 @@
+.fix10 {
+  height: 220px;
+  width: 220px;
+}
+
+.fix9 {
+  width: 53%;
+  height: auto;
+  padding-bottom: 0px;
+}
+
+.push1 {
+  padding: 30px;
+  font-weight: 500;
+  font-size: 25px;
+}

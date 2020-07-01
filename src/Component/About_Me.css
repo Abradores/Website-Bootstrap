@@ -1,0 +1,5 @@
+.plsfix {
+  display: flex;
+  justify-content: space-around;
+  font-size: 75px;
+}
